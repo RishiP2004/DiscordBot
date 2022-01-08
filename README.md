@@ -1,3 +1,3 @@
 # DiscordBot
 
-Just a project for fun, tutorials for the functions can be found online.
+Just a project for fun, tutorials for some functions (finding random image, finding random quote, sending tweets) can be found online.
