@@ -1,0 +1,10 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "Learning, just for fun!",
+  "main": "main.js",
+  "author": "Rxchi",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

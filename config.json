@@ -1,0 +1,10 @@
+{
+  "token": "TOKEN",
+  "prefix": "PREFIX",
+  "ownerid": "ID"
+  
+  "twitterConsumerKey": "CONSUMERKEY"
+  "twitterApplicationSecret": "APPLICATIONSECRET"
+  "twitterUserAccessSecret": "USERACCESSECRET"
+  "twitterUserSecret": "USERSECRET"
+}
