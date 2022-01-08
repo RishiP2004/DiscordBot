@@ -1,9 +1,3 @@
 # DiscordBot
 
-Plans:
-
-GitHub to Discord
-
-Discord to Github?
-
-Possible Commands
+Just a project for fun, tutorials for the functions can be found online.
